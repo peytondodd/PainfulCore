@@ -1,0 +1,38 @@
+name: PainfulCore
+version: 1.0
+main: me.hollowdev.core.Main
+prefix: Core
+authors: HollowDev
+description: Core plugin written for PainfulPVP to only be used while HollowDev is employed!
+website: http://hollowdev.me
+commands:
+  c:
+    description: Chat management main command.
+  gamble:
+    description: Gambling main command.
+  links:
+    description: Displays all the servers links.
+  list:
+    description: Displays all players currently on the server!
+  monitor:
+    description: Displays the servers health.
+  pot:
+    description: Stacks potions.
+  vanish:
+    description: Hides you from other players.
+  trash:
+    description: Dispose of your unwanted items.
+  core:
+    description: Main help command for the core.
+  getstaff:
+    description: Get staff attention!
+  sc:
+    description: Staff chat command.
+  freeze:
+    description: Main freeze command.
+  rename:
+    description: Rename a item.
+  nv:
+    description: Gives sender NightVision.
+  pstats:
+    description: Shows player or target's stats.

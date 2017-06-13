@@ -1,0 +1,39 @@
+# Core written by HollowDev
+# Written with love <3
+general:
+  serverName: 'PainfulPVP'
+  noPermMessage: '&cYou do not have access to this command.'
+  prefix: '&8[&cCore&8] '
+  mainColor: '&c'
+  offColor: '&7'
+  bracketColor: '&8'
+  divider: '&8&m--------------------------------------'
+  reloadMessage: '&7Config has been successfully reloaded!'
+  staffChatPrefix: '&8[&cSC&8] '
+  nameMention: '&c{1} &7has mentioned your name in a chat message&8!'
+  optBroadcast: '&7Server has been optimized'
+  invalidArgs: '&cArguments invalid'
+  reloadMessage: '&7Config reloaded&8.'
+chatManagement:
+  locked: '&7Chat locked by &c$locker'
+  unlocked: '&7Chat unlocked by &c$locker'
+  cleared: '&7Chat was cleared by &c$locker'
+commands:
+  pl: '&fPlugins(1): &cPlugins&f,'
+  plugins: '&fPlugins(1): &cPlugins&f,'
+  bukkit:help: '&4Need help? Do /help'
+  bukkit:pl: '&fPlugins(1): &cPlugins&f,'
+  bukkit:plugins: '&fPlugins(1): &cPlugins&f,'
+  bukkit:?: '&4Need help? Do /help'
+  '?': '&4Need help? Do /help'
+  reload: '&4kys'
+gamble:
+  winMessage: '&aYou have won %amount%!'
+  loseMessage: '&cYou have lost %amount%'
+potStacker:
+  noPots: '&cYou have no pots to stack!'
+  onPotMessage: '&cYou have successfully stacked your pots!'
+links:
+  storeLink: 'store.painfulpvp.net'
+  tsLink: 'ts.painfulpvp.net'
+  websiteLink: 'painfulpvp.net'
